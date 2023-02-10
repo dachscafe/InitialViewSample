@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		1414ED9F2996692D00DCC25B /* InitialView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1414ED9E2996692D00DCC25B /* InitialView.swift */; };
 		C300D6B5298D272C00BA7559 /* InitialViewSampleApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = C300D6B4298D272C00BA7559 /* InitialViewSampleApp.swift */; };
 		C300D6B7298D272C00BA7559 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C300D6B6298D272C00BA7559 /* ContentView.swift */; };
 		C300D6B9298D272D00BA7559 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C300D6B8298D272D00BA7559 /* Assets.xcassets */; };
@@ -14,6 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		1414ED9E2996692D00DCC25B /* InitialView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InitialView.swift; sourceTree = "<group>"; };
 		C300D6B1298D272C00BA7559 /* InitialViewSample.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = InitialViewSample.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		C300D6B4298D272C00BA7559 /* InitialViewSampleApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InitialViewSampleApp.swift; sourceTree = "<group>"; };
 		C300D6B6298D272C00BA7559 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -54,6 +56,7 @@
 			children = (
 				C300D6B4298D272C00BA7559 /* InitialViewSampleApp.swift */,
 				C300D6B6298D272C00BA7559 /* ContentView.swift */,
+				1414ED9E2996692D00DCC25B /* InitialView.swift */,
 				C300D6B8298D272D00BA7559 /* Assets.xcassets */,
 				C300D6BA298D272D00BA7559 /* InitialViewSample.entitlements */,
 				C300D6BB298D272D00BA7559 /* Preview Content */,
@@ -139,6 +142,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1414ED9F2996692D00DCC25B /* InitialView.swift in Sources */,
 				C300D6B7298D272C00BA7559 /* ContentView.swift in Sources */,
 				C300D6B5298D272C00BA7559 /* InitialViewSampleApp.swift in Sources */,
 			);
